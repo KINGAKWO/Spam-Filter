@@ -33,6 +33,4 @@ The application currently has no tests. If you want to add tests, you can create
 
 If you want to contribute to the application, you can create a pull request with your changes. Please make sure to explain what changes you made and why in your pull request.
 
-### License
 
-The application is licensed under the MIT License. See the `LICENSE` file for more information.
